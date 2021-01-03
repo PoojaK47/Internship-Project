@@ -1,0 +1,2 @@
+create table node (name text, url text);
+insert into node values ('Node 1', 'http://localhost:8080/NodeVSS');
